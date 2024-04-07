@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+   background-color: black;
+   
+   background-image: url(bg.jpg);
+}
+
+.navbar{
+  
+    justify-content: space-between;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    height: 90px;
+    align-items: center;
+    background-color: black;
+    
+}
+.logo img{
+    color: red;
+    height: 80px;
+    width: 150px;
+    
+   
+}
+button{
+    background-color: red;
+    color: white;
+    height: 32px;
+    width: 80px;
+    border-radius: 5px;
+}
